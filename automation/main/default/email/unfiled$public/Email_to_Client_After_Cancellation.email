@@ -1,0 +1,11 @@
+Hello!
+
+We would like to inform you that the event has been canceled.
+
+Event Name: {!Event__c.Name}
+Date: {!Event__c.Event_Date__c}
+
+If you have any questions or need assistance, please contact us.
+
+Thank you for your understanding,
+Event Management Team

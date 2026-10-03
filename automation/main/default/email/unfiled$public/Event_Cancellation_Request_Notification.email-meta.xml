@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata"><available>true</available><description>Event Cancellation Request Notification</description><encodingKey>UTF-8</encodingKey><name>Event Cancellation Request Notification</name><style>none</style><subject>Approval Request: Cancel Event {!Event__c.Name}</subject><type>text</type><uiType>Aloha</uiType></EmailTemplate>

@@ -1,0 +1,9 @@
+Hello!
+
+An approval request has been submitted to cancel the event:
+
+Event Name: {!Event__c.Name}
+Event Date: {!Event__c.Event_Date__c}
+
+Thank you,
+EventForce Management System

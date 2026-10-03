@@ -1,0 +1,10 @@
+Hello {!Event__c.OwnerFullName},
+
+Your cancellation request for the event {!Event__c.Name} has been approved.
+
+Event Date: {!Event__c.Event_Date__c}
+
+The event status has been updated to Canceled.
+
+Thank you,
+EventForce Management System
